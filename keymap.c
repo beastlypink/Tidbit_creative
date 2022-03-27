@@ -17,6 +17,11 @@
 #include QMK_KEYBOARD_H
 #include "action_layer.h"
 
+
+//Tidbit QMK for Windows Blender, Illustrator, iPad Procreate
+//modified March 26, 2022 by ghstgrl
+
+
 // Define layer names
 
 #define _BLEN 0
