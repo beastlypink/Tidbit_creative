@@ -7,6 +7,8 @@ Files are based on  QMK files provided by u/way_out_west on Reddit. [Layout is b
 
 The Keymap.c was updated to reflect the additon of the left 2 columns that account for rotary encoder functions.
 
+OLED graphics were converted from .pngs of application logos using [image2cpp](https://javl.github.io/image2cpp/)
+
 The layouts for each layer are as follows:
 
 1. Layer 0: Blender
